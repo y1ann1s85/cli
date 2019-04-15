@@ -7,4 +7,4 @@ echo "hamster">> ./homework/pets.txt
 echo "cat"> ./homework/commands.txt
 echo "ls">> ./homework/commands.txt
 echo "pwd">> ./homework/commands.txt
-comm -3 <(sort ./homework/pets.txt | uniq) <(sort ./homework/commands.txt | uniq)> ./homework/lovelyCommands.txt
+cat pets.txt command.txt |sort| uniq >> ./folder/lovelycommand.txt
