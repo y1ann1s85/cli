@@ -1,4 +1,6 @@
-# cli-gitBash-module_1
+# cli-gitBash-module
+
+https://github.com/HackYourFuture/HTML-CSS/blob/master/Week3/MAKEME.md
 
 Write ONE shell script to do following:
 1. create a directory. Enter a directory. Create an empty file named blank.
