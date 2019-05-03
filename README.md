@@ -1,4 +1,5 @@
-# cli
+# cli-gitBash-module_1
+
 Write ONE shell script to do following:
 1. create a directory. Enter a directory. Create an empty file named blank.
 2. Then write the content "Hello" five times to the file greetings.txt.
